@@ -7,3 +7,11 @@
  */
 
 //silence is golden
+?>
+<?php
+
+phpinfo();
+
+
+
+    ?>
