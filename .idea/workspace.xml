@@ -38,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -148,7 +148,7 @@
       <workItem from="1502457494855" duration="222000" />
       <workItem from="1502457750663" duration="134000" />
       <workItem from="1502457901854" duration="2765000" />
-      <workItem from="1502461657025" duration="1944000" />
+      <workItem from="1502461657025" duration="2611000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1502458239103</created>
@@ -178,11 +178,25 @@
       <option name="project" value="LOCAL" />
       <updated>1502462409773</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Removed test again">
+      <created>1502468133016</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1502468133016</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Removed H1">
+      <created>1502470293081</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1502470293081</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5065000" />
+    <option name="totallyTimeSpent" value="5732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="38" width="1863" height="1160" extended-state="0" />
@@ -244,7 +258,9 @@
     <MESSAGE value="added readme" />
     <MESSAGE value="Fixed typo on readme" />
     <MESSAGE value="Added exclamation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added exclamation" />
+    <MESSAGE value="Removed test again" />
+    <MESSAGE value="Removed H1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed H1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -329,8 +345,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
